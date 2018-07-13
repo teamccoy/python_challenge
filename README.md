@@ -2,7 +2,7 @@
 
 Bank Challenge:
 <br>
-Your task is to create a Python script that analyzes the records to calculate each of the following:<br>
+Create a Python script that analyzes the records to calculate each of the following:<br>
 
   The total number of months included in the dataset<br>
   The total net amount of "Profit/Losses" over the entire period<br>
