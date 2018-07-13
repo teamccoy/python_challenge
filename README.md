@@ -14,7 +14,7 @@ Create a Python script that analyzes the records to calculate each of the follow
 <br>
 Polling Challenge:
 <br>
-Create a Python script that analyzes the records to calculate each of the following:<br>
+Create a Python script that analyzes 3.5 million records to calculate each of the following:<br>
   The total number of votes cast.<br>
   A complete list of candidates who received votes.<br>
   The percentage of votes each candidate won.<br>
