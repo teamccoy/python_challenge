@@ -58,7 +58,7 @@ print(f"Winner: {poll_winner}")
 print("-----------------------------")
 
 
-new_file = open("pypoll.text", 'w')
+new_file = open("pypoll.txt", 'w')
 new_file.write("Election Results")
 new_file.write("-----------------------------")
 new_file.write(f"Total Votes: {totalVotes}")
@@ -70,4 +70,4 @@ new_file.write(f"O'Tooley: {percentageOTooley}% ({totalOTooley})")
 new_file.write("-----------------------------")
 new_file.write(f"Winner: {poll_winner}")
 new_file.write("-----------------------------")
-new_file.close
+new_file.close()
