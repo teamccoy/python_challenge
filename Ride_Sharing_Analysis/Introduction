@@ -6,3 +6,8 @@ Showcase the relationship between four key variables:
 * Total Number of Rides Per City
 * Total Number of Drivers Per City
 * City Type (Urban, Suburban, Rural)
+
+Objectives:
+- Blend data from multiple data sets
+- Use Pandas and Matplotlib to analyze and visualize the data
+- Written Analysis of findings
