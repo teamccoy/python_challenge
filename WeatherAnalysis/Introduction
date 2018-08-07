@@ -1,1 +1,11 @@
+Weather Analysis
 
+Create a Python script to visualize the weather of 500+ cities across the world of varying 
+distance from the equator and analyze the relationships of the following:
+
+* Temperature (F) vs. Latitude
+* Humidity (%) vs. Latitude
+* Cloudiness (%) vs. Latitude
+* Wind Speed (mph) vs. Latitude
+
+Use Python requests, API, MATPLOTLIB and JSON
